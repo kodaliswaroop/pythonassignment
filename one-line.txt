@@ -1,0 +1,4 @@
+3a-use reverse-i search to find past commands
+3b- the-switch list all files-including hidden files
+3c-avg
+3d- i used apache local server to host websites live servers means godaddy
